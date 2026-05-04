@@ -17,7 +17,7 @@
 <table align="center">
 <tr>
 
-<td width="60%" valign="top">
+<td width="65%" valign="top">
 
 🚀 **Currently Working On**
 Tiles Gallery (Next.js)
@@ -33,9 +33,9 @@ Clean UI • Performance • Scalable Apps
 
 </td>
 
-<td width="40%" align="right" valign="top">
+<td width="35%" align="right" valign="top">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420"/>
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="420"/>
 
 </td>
 

@@ -35,12 +35,13 @@ Clean UI • Performance • Scalable Apps
 
 <td width="35%" align="right" valign="top">
 
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="420"/>
+<img src="https://i.ibb.co/7n4fQ2h/night-coding.png" width="420"/>
 
 </td>
 
 </tr>
 </table>
+
 
 
 ## 💻 Technologies

@@ -11,42 +11,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Apps;Always+Learning+New+Things" />
 </p>
 
----
-## 🧑‍💻 About Me
-
-<table align="center">
-<tr>
-
-<td width="60%">
-
-🚀 **Currently Working On**
-Tiles Gallery (Next.js)
-
-<br/>
-
-🌱 **Learning**
-Backend • Authentication • Database
-
-<br/>
-
-💬 **Ask Me About**
-React • Next.js • Tailwind CSS
-
-<br/>
-
-⚡ **Focus**
-Clean UI • Performance • Scalable Apps
-
-</td>
-
-<td width="40%" align="right">
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350"/>
-
-</td>
-
-</tr>
-</table>
 
 ## 💻 Technologies
 

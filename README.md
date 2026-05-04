@@ -1,14 +1,14 @@
+<!-- 👁️ PROFILE VIEWS (TOP MOST) -->
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=muradvcv&label=PROFILE+VIEWS&style=for-the-badge&color=ff00ff&labelColor=0d1117" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Khalekuzzaman</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN Stack | Bangladesh</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Apps;Always+Learning+New+Things" />
-</p>
-
-<!-- 👇 Profile View Top Left -->
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=muradvcv&label=PROFILE+VIEWS&color=0fffc1&style=for-the-badge" />
 </p>
 
 ---

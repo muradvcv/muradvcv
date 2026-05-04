@@ -70,6 +70,42 @@
 
 ---
 
+## 📚 Developer Resources
+
+### 📂 Resources
+
+* 🔹 Tailwind CSS (DaisyUI)
+* 🔹 Google Fonts
+* 🔹 Hero UI / Next UI
+
+### 📖 Documentation
+
+* 📘 https://nextjs.org/docs
+* 📘 https://react.dev
+* 📘 https://better-auth.com
+
+### ⚙️ NPM Packages
+
+* 📦 react-fast-marquee
+* 📦 date-fns
+* 📦 react-tabs
+* 📦 react-toastify
+* 📦 react-spinners
+
+### 🎨 UI & Icons
+
+* 🎯 Font Awesome
+* 🎯 React Icons
+* 🎯 @gravity-ui/icons
+
+### 🚀 Tools I Use
+
+* 🛠️ Figma
+* 🛠️ Git & GitHub
+* 🛠️ Chrome DevTools
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">

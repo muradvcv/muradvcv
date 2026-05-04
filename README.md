@@ -33,30 +33,10 @@
 
 ---
 
-## 🚀 Skills
-
-### 👨‍💻 Programming Languages
+## 🚀 Skills & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js" />
-</p>
-
-### ⚙️ Backend Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### 🎨 Frontend / UI
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
-
-### 🛠️ Tools & Design
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=figma,ai,git,github" />
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,tailwind,figma,git,github,vscode,npm,vercel" />
 </p>
 
 ---
@@ -67,60 +47,6 @@
 
 * 🔗 Repo: https://github.com/muradvcv/tiles-gallery
 * 🌐 Live: https://tiles-gallery-zeta-one.vercel.app/
-
----
-## 📚 Developer Resources
-
-### 📂 Resources
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tailwind" />
-<img src="https://skillicons.dev/icons?i=figma" />
-<img src="https://skillicons.dev/icons?i=vercel" />
-</p>
-
----
-
-### 📖 Documentation
-
-<p align="center">
-<a href="https://nextjs.org/docs">
-<img src="https://skillicons.dev/icons?i=nextjs" />
-</a>
-<a href="https://react.dev">
-<img src="https://skillicons.dev/icons?i=react" />
-</a>
-<a href="https://better-auth.com">
-<img src="https://skillicons.dev/icons?i=nodejs" />
-</a>
-</p>
-
----
-
-### ⚙️ NPM Packages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=npm" />
-<img src="https://skillicons.dev/icons?i=js" />
-</p>
-
----
-
-### 🎨 UI & Icons
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=figma" />
-<img src="https://skillicons.dev/icons?i=materialui" />
-<img src="https://skillicons.dev/icons?i=bootstrap" />
-</p>
-
----
-
-### 🚀 Tools I Use
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,chrome" />
-</p>
 
 ---
 

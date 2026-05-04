@@ -34,17 +34,17 @@
 ---
 ## 📊 Current Stats
 
-## 📊 Current Stats
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muradvcv&theme=tokyonight&hide_border=true&ring=ff00ff&fire=ff00ff&currStreakLabel=00ffff&sideLabels=00ffff&dates=aaaaaa" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=muradvcv&theme=tokyonight&hide_border=true&background=0d1117&ring=ff00ff&fire=ff00ff&currStreakNum=ff00ff&currStreakLabel=ff00ff&sideNums=00ffff&sideLabels=00ffff&dates=888888" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muradvcv&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ffff&icon_color=ff00ff&text_color=c9d1d9" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=muradvcv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff00ff&text_color=00ffff" 
+  />
 </p>
-
----
 
 ## 💻 Technologies
 

@@ -26,14 +26,16 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/muradvcv" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="https://fb.com/khalekuzzamanmurad" target="_blank">
-<img src="https://skillicons.dev/icons?i=facebook" />
+<a href="https://www.facebook.com/khalekuzzamanMurad" target="_blank">
+  <img src="https://skillicons.dev/icons?i=facebook" />
+</a>
+<a href="mailto:muradvcv@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
 
----
 
 ## 📊 Current Stats
 

@@ -66,42 +66,45 @@
 
 <!-- Core Tools -->
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 
 <br/>
 
 <!-- UI & Styling -->
 
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
+<img src="https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
+<img src="https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
+<img src="https://img.shields.io/badge/daisyUI-0d1117?style=for-the-badge&logo=daisyui&logoColor=5A0EF8" />
 
 <br/>
 
-<!-- Libraries & Packages -->
+<!-- Libraries -->
 
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
-<img src="https://img.shields.io/badge/React%20Toastify-FF6C37?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/React%20Tabs-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/React%20Toastify-0d1117?style=for-the-badge&logo=react&logoColor=FF6C37" />
+<img src="https://img.shields.io/badge/React%20Tabs-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/React%20Spinners-0d1117?style=for-the-badge&logo=react&logoColor=00C7B7" />
 
 <br/>
 
 <!-- Utilities -->
 
-<img src="https://img.shields.io/badge/date--fns-770C56?style=for-the-badge&logo=javascript&logoColor=white" />
-
+<img src="https://img.shields.io/badge/date--fns-0d1117?style=for-the-badge&logo=javascript&logoColor=770C56" />
 
 <br/>
 
 <!-- Fonts & Icons -->
 
-<img src="https://img.shields.io/badge/Google%20Fonts-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Font%20Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Fonts-0d1117?style=for-the-badge&logo=google&logoColor=4285F4" />
+<img src="https://img.shields.io/badge/Font%20Awesome-0d1117?style=for-the-badge&logo=fontawesome&logoColor=339AF0" />
 
 <br/>
 
-<!-- Auth / Others -->
+<!-- Auth -->
 
-<img src="https://img.shields.io/badge/Better%20Auth-000000?style=for-the-badge&logo=auth0&logoColor=white" />
+<img src="https://img.shields.io/badge/Better%20Auth-0d1117?style=for-the-badge&logo=auth0&logoColor=00F7FF" />
 
 </p>
 

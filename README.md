@@ -60,6 +60,51 @@
 </p>
 
 ---
+## 🧰 Developer Resources (Other Tools)
+
+<p align="center">
+
+<!-- Core Tools -->
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
+<br/>
+
+<!-- UI & Styling -->
+
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
+
+<br/>
+
+<!-- Libraries & Packages -->
+
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
+<img src="https://img.shields.io/badge/React%20Toastify-FF6C37?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/React%20Tabs-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
+<br/>
+
+<!-- Utilities -->
+
+<img src="https://img.shields.io/badge/date--fns-770C56?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/React%20Spinners-00C7B7?style=for-the-badge&logo=react&logoColor=white" />
+
+<br/>
+
+<!-- Fonts & Icons -->
+
+<img src="https://img.shields.io/badge/Google%20Fonts-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Font%20Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" />
+
+<br/>
+
+<!-- Auth / Others -->
+
+<img src="https://img.shields.io/badge/Better%20Auth-000000?style=for-the-badge&logo=auth0&logoColor=white" />
+
+</p>
+
 
 ## 📫 Contact Me
 

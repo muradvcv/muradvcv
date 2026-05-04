@@ -88,7 +88,7 @@
 <!-- Utilities -->
 
 <img src="https://img.shields.io/badge/date--fns-770C56?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/React%20Spinners-00C7B7?style=for-the-badge&logo=react&logoColor=white" />
+
 
 <br/>
 

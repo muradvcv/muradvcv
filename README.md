@@ -14,41 +14,40 @@
 ---
 ## 🧑‍💻 About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
-</p>
-
 <table align="center">
 <tr>
-<td>
+
+<td width="55%">
 
 🚀 **Currently Working On**
 Tiles Gallery (Next.js)
 
-</td>
-<td>
+<br/>
 
 🌱 **Learning**
 Backend • Authentication • Database
 
-</td>
-</tr>
-
-<tr>
-<td>
+<br/>
 
 💬 **Ask Me About**
 React • Next.js • Tailwind CSS
 
-</td>
-<td>
+<br/>
 
 ⚡ **Focus**
 Clean UI • Performance • Scalable Apps
 
 </td>
+
+<td width="45%" align="right">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+
+</td>
+
 </tr>
 </table>
+
 
 
 ## 💻 Technologies

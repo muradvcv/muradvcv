@@ -17,24 +17,36 @@
 <table align="center">
 <tr>
 
-<td width="60%">
+<td width="55%">
 
-🚀 **Currently Working On: Tiles Gallery (Next.js)
-🌱 **Learning: Backend • Authentication • Database
-💬 **Ask Me About: React • Next.js • Tailwind CSS
-⚡ **Focus: Clean UI • Performance • Scalable Apps
+🚀 **Currently Working On**
+➡️ Tiles Gallery (Next.js)
+
+<br/>
+
+🌱 **Learning**
+➡️ Backend • Authentication • Database
+
+<br/>
+
+💬 **Ask Me About**
+➡️ React • Next.js • Tailwind CSS
+
+<br/>
+
+⚡ **Focus**
+➡️ Clean UI • Performance • Scalable Apps
 
 </td>
 
-<td width="40%" align="right">
+<td width="45%" align="right">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320"/>
+<img src="https://media.giphy.com/media/KeQ2H0sBYeQEwj0fWZ/giphy.gif" width="320"/>
 
 </td>
 
 </tr>
 </table>
-
 
 ## 💻 Technologies
 

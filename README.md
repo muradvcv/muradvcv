@@ -10,6 +10,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Apps;Always+Learning+New+Things" />
 </p>
+
+---
+
 ## 🧑‍💻 About Me
 
 <table align="center">
@@ -17,16 +20,16 @@
 
 <td width="65%" valign="top">
 
-🚀 **Currently Working On**  
+🚀 **Currently Working On**
 Tiles Gallery (Next.js)
 
-🌱 **Learning**  
+🌱 **Learning**
 Backend • Authentication • Database
 
-💬 **Ask Me About**  
+💬 **Ask Me About**
 React • Next.js • Tailwind CSS
 
-⚡ **Focus**  
+⚡ **Focus**
 Clean UI • Performance • Scalable Apps
 
 </td>
@@ -39,6 +42,9 @@ Clean UI • Performance • Scalable Apps
 
 </tr>
 </table>
+
+---
+
 ## 💻 Technologies
 
 <p align="center">
@@ -77,11 +83,10 @@ Clean UI • Performance • Scalable Apps
 </p>
 
 ---
+
 ## 🧰 Developer Resources (Other Tools)
 
 <p align="center">
-
-<!-- Core Tools -->
 
 <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
 <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />
@@ -90,15 +95,11 @@ Clean UI • Performance • Scalable Apps
 
 <br/>
 
-<!-- UI & Styling -->
-
 <img src="https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
 <img src="https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
 <img src="https://img.shields.io/badge/daisyUI-0d1117?style=for-the-badge&logo=daisyui&logoColor=5A0EF8" />
 
 <br/>
-
-<!-- Libraries -->
 
 <img src="https://img.shields.io/badge/React%20Toastify-0d1117?style=for-the-badge&logo=react&logoColor=FF6C37" />
 <img src="https://img.shields.io/badge/React%20Tabs-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -106,25 +107,20 @@ Clean UI • Performance • Scalable Apps
 
 <br/>
 
-<!-- Utilities -->
-
 <img src="https://img.shields.io/badge/date--fns-0d1117?style=for-the-badge&logo=javascript&logoColor=770C56" />
 
 <br/>
-
-<!-- Fonts & Icons -->
 
 <img src="https://img.shields.io/badge/Google%20Fonts-0d1117?style=for-the-badge&logo=google&logoColor=4285F4" />
 <img src="https://img.shields.io/badge/Font%20Awesome-0d1117?style=for-the-badge&logo=fontawesome&logoColor=339AF0" />
 
 <br/>
 
-<!-- Auth -->
-
 <img src="https://img.shields.io/badge/Better%20Auth-0d1117?style=for-the-badge&logo=auth0&logoColor=00F7FF" />
 
 </p>
 
+---
 
 ## 📫 Contact Me
 

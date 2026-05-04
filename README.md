@@ -12,7 +12,7 @@
 </p>
 
 ---
-## 🧑‍💻 About Me
+## 🌙 About Me
 
 <table align="center">
 <tr>
@@ -41,7 +41,7 @@
 
 <td width="45%" align="right">
 
-<img src="https://media.giphy.com/media/KeQ2H0sBYeQEwj0fWZ/giphy.gif" width="320"/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320"/>
 
 </td>
 

@@ -19,10 +19,10 @@
 
 <td width="60%">
 
-🚀 **Currently Working On:** Tiles Gallery (Next.js)
-🌱 **Learning:** Backend • Authentication • Database
-💬 **Ask Me About:** React • Next.js • Tailwind CSS
-⚡ **Focus:** Clean UI • Performance • Scalable Apps
+🚀 **Currently Working On: Tiles Gallery (Next.js)
+🌱 **Learning: Backend • Authentication • Database
+💬 **Ask Me About: React • Next.js • Tailwind CSS
+⚡ **Focus: Clean UI • Performance • Scalable Apps
 
 </td>
 

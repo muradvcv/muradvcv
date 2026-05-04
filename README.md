@@ -21,18 +21,22 @@
 * ⚡ Passionate about building modern & scalable web apps
 
 ---
-## 🌐 Connect with me
+## 📫 Contact Me
 
 <p align="center">
+
+<a href="mailto:muradvcv@gmail.com?subject=Hello%20Khalekuzzaman&body=Hi%20Khalekuzzaman,%20I%20want%20to%20connect%20with%20you.">
+  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 <a href="https://linkedin.com/in/muradvcv" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://www.facebook.com/khalekuzzamanMurad" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<a href="mailto:muradvcv@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+
 </p>
 
 

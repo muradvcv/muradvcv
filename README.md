@@ -1,4 +1,8 @@
 <!-- 👁️ PROFILE VIEWS (TOP MOST) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=100&lines=Khalekuzzaman+Murad;Full+Stack+Developer;MERN+Stack+Developer;Building+Modern+Web+Apps;Always+Learning+New+Things" />
+</p>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=muradvcv&label=PROFILE+VIEWS&style=for-the-badge&color=ff00ff&labelColor=0d1117" />

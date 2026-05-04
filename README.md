@@ -13,16 +13,10 @@
 
 ## 🧑‍💻 About Me
 
-* 🔭 I’m currently working on **Tiles Gallery**
-  👉 Repo: https://github.com/muradvcv/tiles-gallery
-  👉 Live: https://tiles-gallery-zeta-one.vercel.app/
-
-* 👨‍💻 All of my projects:
-  👉 https://muradvcv.github.io/mobile-responsive-vibe/
-
-* 📫 Email: **[muradvcv@gmail.com](mailto:muradvcv@gmail.com)**
-
-* 📄 Resume: https://muradvcv.github.io/mobile-responsive-vibe/
+* 🔭 I’m currently working on **Tiles Gallery (Next.js)**
+* 🌱 I’m learning **Backend, Authentication & Database**
+* 💬 Ask me about **React, Next.js, Tailwind CSS**
+* ⚡ Passionate about building modern & scalable web apps
 
 ---
 
@@ -39,11 +33,40 @@
 
 ---
 
-## 🚀 Languages and Tools
+## 🚀 Skills
+
+### 👨‍💻 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=figma,ai,js,mongodb,nextjs,nodejs,react,tailwind,git" />
+<img src="https://skillicons.dev/icons?i=js" />
 </p>
+
+### ⚙️ Backend Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### 🎨 Frontend / UI
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### 🛠️ Tools & Design
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma,ai,git,github" />
+</p>
+
+---
+
+## 🔥 Featured Project
+
+### 📚 Tiles Gallery
+
+* 🔗 Repo: https://github.com/muradvcv/tiles-gallery
+* 🌐 Live: https://tiles-gallery-zeta-one.vercel.app/
 
 ---
 
@@ -56,4 +79,17 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muradvcv&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact
+
+* 📧 Email: [muradvcv@gmail.com](mailto:muradvcv@gmail.com)
+* 🌐 Portfolio: https://muradvcv.github.io/mobile-responsive-vibe/
+
+---
+
+<p align="center">
+  💡 "Code. Build. Learn. Repeat." 🚀
 </p>

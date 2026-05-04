@@ -15,10 +15,41 @@
 
 ## 🧑‍💻 About Me
 
-* 🔭 I’m currently working on **Tiles Gallery (Next.js)**
-* 🌱 I’m learning **Backend, Authentication & Database**
-* 💬 Ask me about **React, Next.js, Tailwind CSS**
-* ⚡ Passionate about building modern & scalable web apps
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Passionate+Full+Stack+Developer;Building+Modern+Web+Apps;Clean+UI+%2B+Scalable+Code" />
+</p>
+
+<table align="center">
+<tr>
+<td>
+
+🚀 **Currently Working On**
+Tiles Gallery (Next.js)
+
+</td>
+<td>
+
+🌱 **Learning**
+Backend • Authentication • Database
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+💬 **Ask Me About**
+React • Next.js • Tailwind CSS
+
+</td>
+<td>
+
+⚡ **Focus**
+Clean UI • Performance • Scalable Apps
+
+</td>
+</tr>
+</table>
 
 ---
 

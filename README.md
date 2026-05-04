@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=muradvcv&label=PROFILE+VIEWS&style=for-the-badge&color=ff00ff&labelColor=0d1117" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Khalekuzzaman</h1>
+<h1 align="center">Hi 👋, I'm Khalekuzzaman Murad</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN Stack | Bangladesh</h3>
 
 <p align="center">

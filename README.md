@@ -17,7 +17,7 @@
 <table align="center">
 <tr>
 
-<td width="65%" valign="top">
+<td width="80%" valign="top">
 
 🚀 **Currently Working On**
 Tiles Gallery (Next.js)

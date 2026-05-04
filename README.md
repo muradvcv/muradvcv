@@ -12,11 +12,10 @@
 </p>
 
 ---
-
 ## 🧑‍💻 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Passionate+Full+Stack+Developer;Building+Modern+Web+Apps;Clean+UI+%2B+Scalable+Code" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
 </p>
 
 <table align="center">
@@ -51,7 +50,6 @@ Clean UI • Performance • Scalable Apps
 </tr>
 </table>
 
----
 
 ## 💻 Technologies
 

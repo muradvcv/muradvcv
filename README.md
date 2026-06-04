@@ -68,69 +68,67 @@ Clean UI • Performance • Scalable Apps
 </p>
 
 ---
-## 🧰 Developer Resources (Other Tools)
+<h2>🧰 Developer Resources (Other Tools)</h2>
 
 <div align="center">
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git" width="18" /> <b>GIT</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git" width="20"/> <b>GIT</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <img src="https://skillicons.dev/icons?i=github" width="18" /> <b>GITHUB</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="20"/> <b>GITHUB</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <img src="https://skillicons.dev/icons?i=vscode" width="18" /> <b>VS CODE</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" width="20"/> <b>VS CODE</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <img src="https://skillicons.dev/icons?i=figma" width="18" /> <b>FIGMA</b>
+<img src="https://skillicons.dev/icons?i=figma" width="20"/> <b>FIGMA</b>
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tailwind" width="18" /> <b>TAILWIND</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind" width="20"/> <b>TAILWIND</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="18" /> <b>BOOTSTRAP</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=bootstrap" width="20"/> <b>BOOTSTRAP</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  💠 <b>DAISYUI</b>
+💠 <b>DAISYUI</b>
 </p>
 
 <p>
-  ⚛️ <b>REACT TOASTIFY</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+⚛️ <b>REACT TOASTIFY</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  ⚛️ <b>REACT TABS</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+⚛️ <b>REACT TABS</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  ⚛️ <b>REACT SPINNERS</b>
+⚛️ <b>REACT SPINNERS</b>
 </p>
 
 <p>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="18" />
-  <b>DATE-FNS</b>
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="20"/>
+<b>DATE-FNS</b>
+</p>
+
+<p style="font-size:22px;">
+│
 </p>
 
 <p>
-  │
+<img src="https://cdn.simpleicons.org/google/4285F4" width="20"/>
+<b>GOOGLE FONTS</b>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.simpleicons.org/fontawesome/339AF0" width="20"/>
+<b>FONT AWESOME</b>
 </p>
 
 <p>
-  <img src="https://cdn.simpleicons.org/google/4285F4" width="18" />
-  <b>GOOGLE FONTS</b>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.simpleicons.org/fontawesome/339AF0" width="18" />
-  <b>FONT AWESOME</b>
-</p>
-
-<p>
-  🛡️ <b>BETTER AUTH</b>
+🛡️ <b>BETTER AUTH</b>
 </p>
 
 </div>
-
----
 
 ---
 ## 📫 Contact Me

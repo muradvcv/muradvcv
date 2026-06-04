@@ -72,16 +72,16 @@ Clean UI • Performance • Scalable Apps
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muradvcv&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=muradvcv&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muradvcv&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=bf91f3&icon_color=bf91f3&text_color=ffffff" />
+  
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=muradvcv&theme=midnight-purple&hide_border=true&background=00000000&ring=bf91f3&fire=bf91f3&currStreakLabel=bf91f3" />
 </p>
 
 <p align="center">
-  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muradvcv&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muradvcv&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=bf91f3&text_color=ffffff" />
 </p>
 
 ---
-
 
 ---
 ## 📫 Contact Me

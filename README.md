@@ -67,8 +67,6 @@ Clean UI • Performance • Scalable Apps
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Better_Auth-6366F1?style=for-the-badge&logo=auth0&logoColor=white" />
 </p>
----
-
 ## 📫 Contact Me
 
 <p align="center">

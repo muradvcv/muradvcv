@@ -46,74 +46,29 @@ Clean UI • Performance • Scalable Apps
 
 ---
 ## 💻 Technologies
-
 <p align="center">
 
 <!-- Row 1 -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <br/>
 
 <!-- Row 2 -->
-
-
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/HeroUI-0F172A?style=for-the-badge&logo=react&logoColor=white" />
 <br/>
 
 <!-- Row 3 -->
-
-<!-- Row 4 -->
-
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Better_Auth-6366F1?style=for-the-badge&logo=auth0&logoColor=white" />
 <br/>
-
-<!-- Row 5 -->
-
 
 </p>
-## 🧰 Developer Resources (Other Tools)
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=00F7FF" />
-<img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
-<img src="https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
-<img src="https://img.shields.io/badge/daisyUI-0d1117?style=for-the-badge&logo=daisyui&logoColor=5A0EF8" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/React%20Toastify-0d1117?style=for-the-badge&logo=react&logoColor=FF6C37" />
-<img src="https://img.shields.io/badge/React%20Tabs-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/React%20Spinners-0d1117?style=for-the-badge&logo=react&logoColor=00C7B7" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/date--fns-0d1117?style=for-the-badge&logo=javascript&logoColor=770C56" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Google%20Fonts-0d1117?style=for-the-badge&logo=google&logoColor=4285F4" />
-<img src="https://img.shields.io/badge/Font%20Awesome-0d1117?style=for-the-badge&logo=fontawesome&logoColor=339AF0" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Better%20Auth-0d1117?style=for-the-badge&logo=auth0&logoColor=00F7FF" />
-
-</p>
-
 ---
 
 ## 📫 Contact Me

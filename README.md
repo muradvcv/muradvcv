@@ -68,6 +68,48 @@ Clean UI • Performance • Scalable Apps
 </p>
 
 ---
+## 🧰 Developer Resources (Other Tools)
+
+<div align="center">
+
+<p>
+  🔶 GIT &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="18"> GITHUB &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="18"> VS CODE &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" width="18"> FIGMA
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="18"> TAILWIND &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="18"> BOOTSTRAP &nbsp;&nbsp;&nbsp;
+  ◈ DAISYUI
+</p>
+
+<p>
+  ⚛️ REACT TOASTIFY &nbsp;&nbsp;&nbsp;
+  ⚛️ REACT TABS &nbsp;&nbsp;&nbsp;
+  ⚛️ REACT SPINNERS
+</p>
+
+<p>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="18"> DATE-FNS
+</p>
+
+<p>
+  │
+</p>
+
+<p>
+  <img src="https://cdn.simpleicons.org/google/4285F4" width="18"> GOOGLE FONTS
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/fontawesome/339AF0" width="18"> FONT AWESOME
+</p>
+
+<p>
+  🛡️ BETTER AUTH
+</p>
+
+</div>
 
 ## 📊 GitHub Stats
 

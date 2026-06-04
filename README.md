@@ -1,152 +1,91 @@
-<div align="center">
+<!-- 👁️ PROFILE VIEWS (TOP MOST) -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:0F172A&height=50&section=header&text=PROFILE%20VIEWS&fontSize=18&fontColor=ffffff"/>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=muradvcv&label=PROFILE+VIEWS&style=for-the-badge&color=ff00ff&labelColor=0d1117" />
+</p>
 
-# Hi 👋, I'm Khalekuzzaman Murad
+<h1 align="center">Hi 👋, I'm Khalekuzzaman Murad</h1>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack | Bangladesh</h3>
 
-### 🚀 Full Stack Developer | MERN Stack | Bangladesh
-
-### Building Modern Web Apps
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Apps;Always+Learning+New+Things" />
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-<table>
+<table align="center">
 <tr>
-<td width="60%">
 
-✔️ Currently Working On Idea Galaxy (Next)
+<td width="65%" valign="top">
 
-✔️ Learning Advanced Authentication + Database
+🚀 **Currently Working On**
+Tiles Gallery (Next.js)
 
-✔️ Love Web Development + Next.js + Tailwind CSS
+🌱 **Learning**
+Backend • Authentication • Database
 
-✔️ Focus Clean UI • Performance • Scalable Apps
+💬 **Ask Me About**
+React • Next.js • Tailwind CSS
+
+⚡ **Focus**
+Clean UI • Performance • Scalable Apps
 
 </td>
 
-<td width="40%">
+<td width="35%" align="right" valign="top">
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
 
 </td>
+
 </tr>
 </table>
 
 ---
-
 ## 💻 Technologies
+<p align="center">
 
-<div align="center">
+<!-- Row 1 -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
+<!-- Row 2 -->
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/HeroUI-0F172A?style=for-the-badge&logo=react&logoColor=white" />
+<br/>
 
-<br><br>
+<!-- Row 3 -->
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Better_Auth-6366F1?style=for-the-badge&logo=auth0&logoColor=white" />
+</p>
+## 📫 Contact Me
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,firebase" />
+<p align="center">
 
-</div>
-
----
-
-## 👀 Developer Resources (Other Tools)
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,yarn,netlify,vercel" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/React_Toastify-FF6B6B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=googlefonts&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Font_Awesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white"/>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 🌟 Idea Vault
-A platform where users can share, discover and collaborate on startup ideas.
-
-🔗 Live Demo: https://your-live-link.com
-
-🔗 Client Repo: https://github.com/yourusername/idea-vault-client
-
-🔗 Server Repo: https://github.com/yourusername/idea-vault-server
-
----
-
-### 🌟 Roommate Finder
-
-Find compatible roommates based on location and preferences.
-
-🔗 Live Demo: https://your-live-link.com
-
-🔗 Client Repo: https://github.com/yourusername/roommate-finder-client
-
-🔗 Server Repo: https://github.com/yourusername/roommate-finder-server
-
----
-
-## 📬 Contact Me
-
-<div align="center">
-
-<a href="mailto:muradvcv@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=muradvcv@gmail.com&su=Hello%20Khalekuzzaman&body=Hi%20I%20want%20to%20contact%20you" target="_blank">
+  <img src="https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" />
+<a href="https://linkedin.com/in/muradvcv" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.facebook.com/khalekuzzamanMurad" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-<a href="https://facebook.com/YOUR_FACEBOOK">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-</div>
+</p>
 
 ---
 
-<div align="center">
-
-### 💡 Code. Build. Learn. Repeat. 🚀
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</div>
+<p align="center">
+  💡 "Code. Build. Learn. Repeat." 🚀
+</p>

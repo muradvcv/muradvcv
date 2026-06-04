@@ -72,45 +72,44 @@ Clean UI • Performance • Scalable Apps
 
 <div align="center">
 
-<p>
-  🔶 GIT &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="18"> GITHUB &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" width="18"> VS CODE &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" width="18"> FIGMA
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind" width="18"> TAILWIND &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="18"> BOOTSTRAP &nbsp;&nbsp;&nbsp;
-  ◈ DAISYUI
-</p>
-
-<p>
-  ⚛️ REACT TOASTIFY &nbsp;&nbsp;&nbsp;
-  ⚛️ REACT TABS &nbsp;&nbsp;&nbsp;
-  ⚛️ REACT SPINNERS
-</p>
-
-<p>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="18"> DATE-FNS
-</p>
-
-<p>
-  │
-</p>
-
-<p>
-  <img src="https://cdn.simpleicons.org/google/4285F4" width="18"> GOOGLE FONTS
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/fontawesome/339AF0" width="18"> FONT AWESOME
-</p>
-
-<p>
-  🛡️ BETTER AUTH
-</p>
+<table border="0" cellspacing="0" cellpadding="8">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="20"/><br/><sub>GIT</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="20"/><br/><sub>GITHUB</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="20"/><br/><sub>VS CODE</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=figma" width="20"/><br/><sub>FIGMA</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="20"/><br/><sub>TAILWIND</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="20"/><br/><sub>BOOTSTRAP</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=daisyui" width="20"/><br/><sub>DAISYUI</sub></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="20"/><br/><sub>REACT TOASTIFY</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="20"/><br/><sub>REACT TABS</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="20"/><br/><sub>REACT SPINNERS</sub></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center" colspan="4"><img src="https://skillicons.dev/icons?i=js" width="20"/><br/><sub>DATE-FNS</sub></td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<img src="https://img.shields.io/badge/Google_Fonts-4285F4?style=flat&logo=google-fonts&logoColor=white"/>
+</td>
+<td align="center" colspan="2">
+<img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=flat&logo=font-awesome&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="4">
+<img src="https://img.shields.io/badge/Better_Auth-38BDF8?style=flat&logo=shield&logoColor=white"/>
+</td>
+</tr>
+</table>
 
 </div>
-
 ## 📊 GitHub Stats
 
 <p align="center">

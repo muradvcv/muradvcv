@@ -82,19 +82,6 @@ Clean UI • Performance • Scalable Apps
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muradvcv&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muradvcv&theme=tokyo-night&hide_border=true" />
-</p>
 
 ---
 ## 📫 Contact Me

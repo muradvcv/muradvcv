@@ -66,6 +66,37 @@ Clean UI • Performance • Scalable Apps
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Better_Auth-6366F1?style=for-the-badge&logo=auth0&logoColor=white" />
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muradvcv&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=muradvcv&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muradvcv&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muradvcv&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muradvcv&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
 ## 📫 Contact Me
 
 <p align="center">

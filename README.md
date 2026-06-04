@@ -66,69 +66,6 @@ Clean UI • Performance • Scalable Apps
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Better_Auth-6366F1?style=for-the-badge&logo=auth0&logoColor=white" />
 </p>
-
----
-## 🧰 Developer Resources (Other Tools)
-
-<div align="center">
-
-<p>
-  🔶 <b>GIT</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="https://skillicons.dev/icons?i=github" width="18"> <b>GITHUB</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <b>VS CODE</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="https://skillicons.dev/icons?i=figma" width="18"> <b>FIGMA</b>
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind" width="18"> <b>TAILWIND</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  🅱️ <b>BOOTSTRAP</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  🟣 <b>DAISYUI</b>
-</p>
-
-<p>
-  ⚛️ <b>REACT TOASTIFY</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  ⚛️ <b>REACT TABS</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  ⚛️ <b>REACT SPINNERS</b>
-</p>
-
-<p>
-  🟪 <b>DATE-FNS</b>
-</p>
-
-<p>
-  │
-</p>
-
-<p>
-  <img src="https://cdn.simpleicons.org/google/4285F4" width="18">
-  <b>GOOGLE FONTS</b>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.simpleicons.org/fontawesome/339AF0" width="18">
-  <b>FONT AWESOME</b>
-</p>
-
-<p>
-  🛡️ <b>BETTER AUTH</b>
-</p>
-
-</div>
----
 ## 📫 Contact Me
 
 <p align="center">

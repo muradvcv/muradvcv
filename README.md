@@ -66,6 +66,17 @@ Clean UI • Performance • Scalable Apps
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Better_Auth-6366F1?style=for-the-badge&logo=auth0&logoColor=white" />
 </p>
+
+
+## 🔥 My Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=f39c12" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=F39C12&fire=F39C12&currStreakLabel=F39C12" height="180"/>
+
+</div>
 ## 📫 Contact Me
 
 <p align="center">

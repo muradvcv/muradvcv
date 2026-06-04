@@ -77,29 +77,7 @@ Clean UI • Performance • Scalable Apps
 
 </div>
 
-<div align="center">
 
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=muradvcv&theme=tokyo-night&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muradvcv&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=muradvcv&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
----
 
 ### 👀 Profile Views
 

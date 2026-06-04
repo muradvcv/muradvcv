@@ -67,14 +67,45 @@ Clean UI • Performance • Scalable Apps
 <img src="https://img.shields.io/badge/Better_Auth-6366F1?style=for-the-badge&logo=auth0&logoColor=white" />
 </p>
 
-
-## 🔥 My Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=f39c12" height="180"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muradvcv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=F39C12&fire=F39C12&currStreakLabel=F39C12" height="180"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=muradvcv&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=muradvcv&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muradvcv&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=muradvcv&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+### 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=muradvcv&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 ## 📫 Contact Me

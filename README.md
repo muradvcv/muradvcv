@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Khalekuzzaman Murad</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack | Bangladesh</h3>
+<h3 align="center">🚀 Full Stack Developer | Bangladesh</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Apps;Always+Learning+New+Things" />

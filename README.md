@@ -1,71 +1,65 @@
-<!-- 👁️ PROFILE VIEWS (TOP MOST) -->
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=muradvcv&label=PROFILE+VIEWS&style=for-the-badge&color=ff00ff&labelColor=0d1117" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Khalekuzzaman Murad</h1>
+<h1 align="center">Hi 👋, I'm Khalekuzzaman</h1>
+<h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 <h3 align="center">🚀 Full Stack Developer | MERN Stack | Bangladesh</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muradvcv&label=Profile%20views&color=0e75b6&style=flat" alt="muradvcv" /> </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Apps;Always+Learning+New+Things" />
+</p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=muradvcv&label=Profile%20views&color=0e75b6&style=flat" /> 
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-<table align="center">
-<tr>
+* 🔭 I’m currently working on **Tiles Gallery**
+  👉 Repo: https://github.com/muradvcv/tiles-gallery
+  👉 Live: https://tiles-gallery-zeta-one.vercel.app/
 
-<td width="65%" valign="top">
+* 👨‍💻 All of my projects:
+  👉 https://muradvcv.github.io/mobile-responsive-vibe/
 
-🚀 **Currently Working On**
-Tiles Gallery (Next.js)
+- 🔭 I’m currently working on next js project [Tiles gallery](https://github.com/muradvcv/tiles-gallery Live Link : https://tiles-gallery-zeta-one.vercel.app/)
+* 📫 Email: **[muradvcv@gmail.com](mailto:muradvcv@gmail.com)**
 
-🌱 **Learning**
-Backend • Authentication • Database
+- 👨‍💻 All of my projects are available at [https://muradvcv.github.io/mobile-responsive-vibe/](https://muradvcv.github.io/mobile-responsive-vibe/)
+* 📄 Resume: https://muradvcv.github.io/mobile-responsive-vibe/
 
-💬 **Ask Me About**
-React • Next.js • Tailwind CSS
+- 📫 How to reach me **muradvcv@gmail.com**
+---
 
-⚡ **Focus**
-Clean UI • Performance • Scalable Apps
+- 📄 Know about my experiences [https://muradvcv.github.io/mobile-responsive-vibe/](https://muradvcv.github.io/mobile-responsive-vibe/)
+## 🌐 Connect with me
 
-</td>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/muradvcv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muradvcv" height="30" width="40" /></a>
+<a href="https://fb.com/khalekuzzamanmurad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khalekuzzamanmurad" height="30" width="40" /></a>
+<p align="center">
+<a href="https://linkedin.com/in/muradvcv" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://fb.com/khalekuzzamanmurad" target="_blank">
+<img src="https://skillicons.dev/icons?i=facebook" />
+</a>
+</p>
 
-<td width="35%" align="right" valign="top">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muradvcv&show_icons=true&locale=en&layout=compact" alt="muradvcv" /></p>
+## 🚀 Languages and Tools
 
-</td>
-
-</tr>
-</table>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muradvcv&show_icons=true&locale=en" alt="muradvcv" /></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma,ai,js,mongodb,nextjs,nodejs,react,tailwind,git" />
+</p>
 
 ---
-## 💻 Technologies
-<p align="center">
-
-<!-- Row 1 -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<br/>
-
-<!-- Row 2 -->
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/HeroUI-0F172A?style=for-the-badge&logo=react&logoColor=white" />
-<br/>
-
-<!-- Row 3 -->
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Better_Auth-6366F1?style=for-the-badge&logo=auth0&logoColor=white" />
-</p>
 
 ## 📊 GitHub Stats
 
@@ -77,30 +71,4 @@ Clean UI • Performance • Scalable Apps
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muradvcv&layout=compact&theme=tokyonight" />
-</p>
-
-
-
-## 📫 Contact Me
-
-<p align="center">
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=muradvcv@gmail.com&su=Hello%20Khalekuzzaman&body=Hi%20I%20want%20to%20contact%20you" target="_blank">
-  <img src="https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/muradvcv" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://www.facebook.com/khalekuzzamanMurad" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-</p>
-
----
-
-<p align="center">
-  💡 "Code. Build. Learn. Repeat." 🚀
 </p>

@@ -69,13 +69,15 @@ Clean UI • Performance • Scalable Apps
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muradvcv&" alt="muradvcv" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muradvcv&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muradvcv&theme=tokyonight" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muradvcv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=muradvcv&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muradvcv&layout=compact&theme=tokyonight" />
+</p>
 
 
 

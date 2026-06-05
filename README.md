@@ -67,17 +67,10 @@ Clean UI • Performance • Scalable Apps
 <img src="https://img.shields.io/badge/Better_Auth-6366F1?style=for-the-badge&logo=auth0&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muradvcv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=muradvcv&theme=tokyonight&hide_border=true" />
-
-</div>
-
-
+## 📊 Current Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muradvcv&theme=tokyonight&hide_border=true&ring=ff00ff&fire=ff00ff&currStreakLabel=00ffff&sideLabels=00ffff&dates=aaaaaa" />
+</p>
 
 ## 📫 Contact Me
 

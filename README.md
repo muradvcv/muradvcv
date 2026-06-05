@@ -60,15 +60,4 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muradvcv&" alt="muradvcv" /></p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muradvcv&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muradvcv&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muradvcv&layout=compact&theme=tokyonight" />
-</p>
+README.md

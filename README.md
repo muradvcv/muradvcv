@@ -115,16 +115,17 @@
 
 <p align="center">
 
-<a href="https://leetcode.com/u/KHALEKUZZAMAN/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-KHALEKUZZAMAN-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<a href="https://leetcode.com/u/KHALEKUZZAMAN/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="45" height="45" />
 </a>
 
-<a href="https://www.hackerrank.com/YOUR_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-YOUR_USERNAME-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.hackerrank.com/YOUR_USERNAME" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" alt="HackerRank" width="45" height="45" />
 </a>
 
 </p>
-
 ## 📫 Contact Me
 
 <p align="center">

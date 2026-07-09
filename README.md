@@ -19,19 +19,13 @@
 <tr>
 <td width="60%" valign="top">
 
-👋 Hi, I'm **Md. Khalekuzzaman**, a **MERN Stack Developer** passionate about building modern and scalable web applications.
+👋 **MERN Stack Developer** passionate about building modern and scalable web applications.
 
-🚀 **Currently Working On**  
-Modern web applications with **React.js** & **Next.js**
+🚀 **Currently Working On:** React.js & Next.js projects • 🌱 **Learning:** Backend Development, Authentication, Database Design & System Design.
 
-🌱 **Currently Learning**  
-Backend Development • Authentication • Database Design • System Design
+💡 **Goal:** Build scalable, user-friendly, high-performance applications while continuously improving my development and problem-solving skills.
 
-🎯 **Goal**  
-Build scalable, user-friendly, and high-performance applications while continuously improving my development and problem-solving skills.
-
-⚡ **Fun Fact**  
-I enjoy solving coding challenges and turning ideas into real-world applications.
+⚡ **Fun Fact:** I enjoy solving coding challenges and turning ideas into real-world applications.
 
 </td>
 

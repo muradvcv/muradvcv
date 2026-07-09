@@ -123,10 +123,6 @@
   <img src="https://img.shields.io/badge/HackerRank-YOUR_USERNAME-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 
-<a href="https://github.com/muradvcv" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-muradvcv-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
 </p>
 
 ## 📫 Contact Me

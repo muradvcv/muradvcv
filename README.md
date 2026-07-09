@@ -15,31 +15,37 @@
 
 ## 🧑‍💻 About Me
 
-<table align="center">
+<table>
 <tr>
+<td width="60%" valign="top">
 
-<td width="65%" valign="top">
+👋 Hi, I'm **Md. Khalekuzzaman**, a **MERN Stack Developer** passionate about building modern and scalable web applications.
 
-🚀 **Currently Working On**
-Tiles Gallery (Next.js)
+🚀 **Currently Working On**  
+Modern web applications with **React.js** & **Next.js**
 
-🌱 **Learning**
-Backend • Authentication • Database
+🌱 **Currently Learning**  
+Backend Development • Authentication • Database Design • System Design
 
-💬 **Ask Me About**
-React • Next.js • Tailwind CSS
+💻 **Tech Stack**  
+JavaScript • React.js • Next.js • Node.js • Express.js • MongoDB • Tailwind CSS
 
-⚡ **Focus**
-Clean UI • Performance • Scalable Apps
+💬 **Ask Me About**  
+React • Next.js • JavaScript • Tailwind CSS • REST APIs
+
+🎯 **Goal**  
+Build scalable, user-friendly, and high-performance applications while continuously improving my development and problem-solving skills.
+
+⚡ **Fun Fact**  
+I enjoy solving coding challenges and turning ideas into real-world applications.
 
 </td>
 
-<td width="35%" align="right" valign="top">
+<td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Coding"/>
 
 </td>
-
 </tr>
 </table>
 

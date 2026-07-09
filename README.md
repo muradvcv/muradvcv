@@ -119,6 +119,10 @@
   <img src="https://img.shields.io/badge/LeetCode-KHALEKUZZAMAN-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
+<a href="https://www.hackerrank.com/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-YOUR_USERNAME-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+
 <a href="https://github.com/muradvcv" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-muradvcv-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>

@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=muradvcv&label=PROFILE+VIEWS&style=for-the-badge&color=ff00ff&labelColor=0d1117" />
 </p>
 <p align="center">
-  <img src="https://i.ibb.co.com/nv5XFKH/Chat-GPT-Image-Jul-9-2026-08-52-10-PM.png" alt="Banner" width="1000" height="270">
+  <img src="https://i.ibb.co.com/nv5XFKH/Chat-GPT-Image-Jul-9-2026-08-52-10-PM.png" alt="Banner" width="1000">
 </p>
 
 <h1 align="center">Hi 👋, I'm Khalekuzzaman Murad</h1>

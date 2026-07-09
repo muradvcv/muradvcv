@@ -113,14 +113,14 @@
 
 ## 💻 Coding Profiles
 
-<p align="center" style="display:flex; justify-content:center; align-items:center; gap:20px;">
+<p align="center" style="display:flex; justify-content:center; align-items:center; gap:50px;">
 
 <a href="https://leetcode.com/u/KHALEKUZZAMAN/" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="45" />
 </a>
 
 <a href="https://www.hackerrank.com/YOUR_USERNAME" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" alt="HackerRank" width="45" />
+  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" alt="HackerRank" width="35" />
 </a>
 
 </p>

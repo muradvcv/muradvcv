@@ -19,9 +19,7 @@
 <tr>
 <td width="60%" valign="top">
 
-👋 **MERN Stack Developer** passionate about building modern and scalable web applications.
-
-🚀 **Currently Working On:** React.js & Next.js projects • 🌱 **Learning:** Backend Development, Authentication, Database Design & System Design.
+👋 **MERN Stack Developer** passionate about building modern and scalable web applications.🚀 **Currently Working On:** React.js & Next.js projects • 🌱 **Learning:** Backend Development, Authentication, Database Design & System Design.
 
 💡 **Goal:** Build scalable, user-friendly, high-performance applications while continuously improving my development and problem-solving skills.
 

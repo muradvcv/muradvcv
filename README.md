@@ -20,7 +20,7 @@
 
 <td width="65%" valign="top">
 
-💼 <strong>Currently Working On:</strong> Building full-stack web applications with React.js, Next.js, Node.js, Express.js, and MongoDB.
+💼 <strong>Currently Working:</strong> Building full-stack web with React.js, Next.js, Node.js, Express.js, and MongoDB.
 
 📚 <strong>Learning:</strong> Backend Development, Authentication, Database Design & System Design.
 

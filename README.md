@@ -115,11 +115,11 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/KHALEKUZZAMAN/" target="_blank">
-    <img src="https://img.shields.io/badge/LEETCODE-black?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LEETCODE-C56A00?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=C56A00" alt="LeetCode"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/HACKERRANK-black?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=black" alt="HackerRank"/>
+    <img src="https://img.shields.io/badge/HACKERRANK-1B5E20?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1B5E20" alt="HackerRank"/>
   </a>
 </p>
 

@@ -24,7 +24,7 @@
 
 📚 <strong>Learning:</strong> Backend Development, Authentication, Database Design & System Design.
 
-💻 <strong>Ask Me About:</strong> React.js • Next.js • Node.js • Express.js • MongoDB • REST APIs • JWT • Tailwind CSS.
+💻 <strong>Ask Me About:</strong> React.js • Next.js • Node.js • Express.js • MongoDB • REST APIs • JWT.
 
 🎯 <strong>Focus:</strong> Clean UI • Performance • Scalable Applications.
 

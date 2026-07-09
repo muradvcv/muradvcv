@@ -105,11 +105,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muradvcv&theme=tokyonight&hide_border=true&ring=ff00ff&fire=ff00ff&currStreakLabel=00ffff&sideLabels=00ffff&dates=aaaaaa" />
 </p>
 
-## 📅 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muradvcv&theme=tokyo-night&hide_border=true"/>
-</p>
 
 ## 💻 Coding Profiles
 
@@ -123,18 +119,6 @@
   </a>
 </p>
 
-
-## 💻 Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/u/KHALEKUZZAMAN/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-BB5A00?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" height="28"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-166534?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" height="28"/>
-  </a>
-</p>
 
 ## 📫 Contact Me
 

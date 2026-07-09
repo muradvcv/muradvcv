@@ -38,6 +38,7 @@
 
 </tr>
 </table>
+
 ---
 ## 💻 Technologies
 <p align="center">

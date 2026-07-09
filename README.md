@@ -13,21 +13,34 @@
 
 ---
 
+
 ## 🧑‍💻 About Me
 
-<table>
+<table align="center">
 <tr>
-<td width="60%" valign="top">
 
-👋 **MERN Stack Developer** passionate about building modern and scalable web applications.🚀 **Currently Working On:** React.js & Next.js projects • 🌱 **Learning:** Backend Development, Authentication, Database Design & System Design.💡 **Goal:** Build scalable, user-friendly, high-performance applications while continuously improving my development and problem-solving skills.⚡ **Fun Fact:** I enjoy solving coding challenges and turning ideas into real-world applications.
+<td width="65%" valign="top">
+
+🚀 **Currently Working On**
+Building full-stack web applications with React.js, Next.js, Node.js, Express.js, and MongoDB.
+
+🌱 **Learning**
+Backend Development, Authentication, Database Design & System Design.
+
+💬 **Ask Me About**
+React • Next.js • Node.js • Express.js • MongoDB • REST APIs • Authentication • JWT • Tailwind CSS
+
+⚡ **Focus**
+Clean UI • Performance • Scalable Apps
 
 </td>
 
-<td width="40%" align="center">
+<td width="35%" align="right" valign="top">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Coding"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
 
 </td>
+
 </tr>
 </table>
 

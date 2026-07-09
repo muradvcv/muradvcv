@@ -108,12 +108,21 @@
 ## 📅 Contribution Graph
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=muradvcv&theme=github-dark&hide_border=true&radius=12"
-    alt="Contribution Graph"
-    width="100%"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muradvcv&theme=tokyo-night&hide_border=true"/>
 </p>
+
+## 💻 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/KHALEKUZZAMAN/" target="_blank">
+    <img src="https://img.shields.io/badge/LEETCODE-C56A00?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=C56A00" alt="LeetCode"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/HACKERRANK-1B5E20?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1B5E20" alt="HackerRank"/>
+  </a>
+</p>
+
 
 ## 💻 Coding Profiles
 

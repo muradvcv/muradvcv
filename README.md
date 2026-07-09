@@ -27,12 +27,6 @@ Modern web applications with **React.js** & **Next.js**
 🌱 **Currently Learning**  
 Backend Development • Authentication • Database Design • System Design
 
-💻 **Tech Stack**  
-JavaScript • React.js • Next.js • Node.js • Express.js • MongoDB • Tailwind CSS
-
-💬 **Ask Me About**  
-React • Next.js • JavaScript • Tailwind CSS • REST APIs
-
 🎯 **Goal**  
 Build scalable, user-friendly, and high-performance applications while continuously improving my development and problem-solving skills.
 

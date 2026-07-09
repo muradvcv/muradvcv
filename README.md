@@ -114,17 +114,13 @@
 ## 💻 Coding Profiles
 
 <p align="center">
-
-<a href="https://leetcode.com/u/KHALEKUZZAMAN/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.hackerrank.com/YOUR_USERNAME" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-</a>
-
+  <a href="https://leetcode.com/u/KHALEKUZZAMAN/" target="_blank">
+    <img src="https://img.shields.io/badge/LEETCODE-black?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=black" alt="LeetCode"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/HACKERRANK-black?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=black" alt="HackerRank"/>
+  </a>
 </p>
 
 ## 📫 Contact Me

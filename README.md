@@ -13,7 +13,6 @@
 
 ---
 
-
 ## 🧑‍💻 About Me
 
 <table align="center">
@@ -21,29 +20,24 @@
 
 <td width="65%" valign="top">
 
-🚀 **Currently Working On**
-Building full-stack web applications with React.js, Next.js, Node.js, Express.js, and MongoDB.
+💼 <strong>Currently Working On:</strong> Building full-stack web applications with React.js, Next.js, Node.js, Express.js, and MongoDB.
 
-🌱 **Learning**
-Backend Development, Authentication, Database Design & System Design.
+📚 <strong>Learning:</strong> Backend Development, Authentication, Database Design & System Design.
 
-💬 **Ask Me About**
-React • Next.js • Node.js • Express.js • MongoDB • REST APIs • Authentication • JWT • Tailwind CSS
+💻 <strong>Ask Me About:</strong> React.js • Next.js • Node.js • Express.js • MongoDB • REST APIs • JWT • Tailwind CSS.
 
-⚡ **Focus**
-Clean UI • Performance • Scalable Apps
+🎯 <strong>Focus:</strong> Clean UI • Performance • Scalable Applications.
 
 </td>
 
-<td width="35%" align="right" valign="top">
+<td width="35%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280" alt="Coding"/>
 
 </td>
 
 </tr>
 </table>
-
 ---
 ## 💻 Technologies
 <p align="center">

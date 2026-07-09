@@ -111,6 +111,20 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muradvcv&theme=tokyo-night&hide_border=true"/>
 </p>
 
+## 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/KHALEKUZZAMAN/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-KHALEKUZZAMAN-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://github.com/muradvcv" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-muradvcv-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
 ## 📫 Contact Me
 
 <p align="center">
